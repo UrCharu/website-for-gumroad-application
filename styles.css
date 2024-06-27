@@ -1,0 +1,23 @@
+
+header {
+    border-style: solid;
+    border-width: thin;
+    border-color:black;
+    margin: 10%, 10%, 10%, 10%;
+
+}
+section {
+    border-style: solid;
+    border-width:thin;
+    border-color: black;
+    margin: 10%, 10%, 10%, 10%;
+}
+li {
+    display:inline-block;
+    border-color: black;
+    border-width:thin;
+    border-style:solid;
+    margin: 20px;
+}
+
+
